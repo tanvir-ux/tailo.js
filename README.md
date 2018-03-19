@@ -9,4 +9,4 @@ now i am adding monday from browser
 let's see what happens.
 
 
-alrigt i am adding this from laptop
+alright i am adding this from laptop
